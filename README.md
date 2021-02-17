@@ -2,9 +2,13 @@
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021 
+
 **Name:** İbrahim Berk  
+
 **Surname:** Ay
+
 **Email:** b.e.r.k.07.a.y@gmail.com   
+
 
 ## Project Name
 Description of your project.
