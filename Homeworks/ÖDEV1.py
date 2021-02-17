@@ -1,3 +1,4 @@
+#Generating a 3x3 matrix with 9 random prime numbers.
 """Öncelikle matrisi oluşruturcak listelerimi oluşturuyorum."""
 listx = []
 listy = []
